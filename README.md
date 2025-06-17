@@ -15,4 +15,4 @@ This research provides a foundational overview of the critical elements required
 ### 📄 View Full Report
 The complete literature review, including all citations and detailed analysis, is available for viewing.
 
-[**View the Full Literature Review (PDF)**](./Aniket-Mishra-RAS590-Final-Review.pdf)
+* [**View the Full Literature Review (PDF)**](./Aniket-Mishra-RAS590-Final-Review.pdf)
